@@ -1,6 +1,6 @@
 
 public class Prueba {
 	public static void main(String[] args) {
-		System.out.println("Ingienería de Software 3333");
+		System.out.println("Ingienería de Software II");
 	}
 }
